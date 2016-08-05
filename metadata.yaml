@@ -1,0 +1,29 @@
+_repo: The-Tale-of-Sandy-Chipmunk_9462
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bailey, Arthur Scott
+    birthdate: 1877
+    deathdate: 1949
+    gutenberg_agent_id: '1842'
+    url: http://www.gutenberg.org/2009/agents/1842
+    wikipedia: http://en.wikipedia.org/wiki/Arthur_Scott_Bailey
+description: This fictional tale teaches basic science of the animal and insect world
+  through the lives of the characters and explores various animal characteristics,
+  environments and predators in addition to being a good story.
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2005-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9462'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Animals -- Juvenile fiction'
+- !lcsh 'Chipmunks -- Juvenile fiction'
+- GITenberg
+title: The Tale of Sandy Chipmunk
+url: http://www.gutenberg.org/ebooks/9462
