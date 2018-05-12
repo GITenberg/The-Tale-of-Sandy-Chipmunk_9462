@@ -1,5 +1,8 @@
 _repo: The-Tale-of-Sandy-Chipmunk_9462
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Bailey, Arthur Scott
@@ -11,6 +14,8 @@ creator:
 description: This fictional tale teaches basic science of the animal and insect world
   through the lives of the characters and explores various animal characteristics,
   environments and predators in addition to being a good story.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/9462#The-Tale-of-Sandy-Chipmunk
 gutenberg_bookshelf: Children's Book Series
 gutenberg_issued: '2005-12-01'
 gutenberg_type: Text
